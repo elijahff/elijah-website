@@ -1,0 +1,12 @@
+section p {
+	position: relative;
+	left: 250px;
+	top: 150px;
+	width: 500px;
+	height: auto;
+}
+
+.active {
+	border-bottom: 7px solid blue;
+}
+	
